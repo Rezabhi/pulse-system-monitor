@@ -1,4 +1,4 @@
-# Pulse
+# 💻Pulse
 
 A live, colorful system performance monitor for your terminal — CPU, memory, disks, network and top processes with usage bars and history sparklines, in a single Python file.
 
