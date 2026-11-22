@@ -21,8 +21,8 @@ A live, colorful system performance monitor for your terminal — CPU, memory, d
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone (https://github.com/Rezabhi/pulse-system-monitor.git)
+cd <pulse-system-monitor>
 pip install -r requirements.txt
 python pulse.py
 ```
